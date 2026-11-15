@@ -1,7 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   // Your relay's address will be https://bo1-zombies-coop-relay.<your-subdomain>.workers.dev
-  "name": "bo1-zombies-coop-relay",
+    "name": "bo1-zombies-coop",
   "main": "src/index.js",
   "compatibility_date": "2026-10-08",
   "durable_objects": {
